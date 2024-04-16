@@ -5,6 +5,7 @@ public class Main {
         // Create a new JFrame
         // LabelFrame labelFrame = new LabelFrame();
         // PanelFrame panelFrame = new PanelFrame();
-        ButtonFrame buttonFrame = new ButtonFrame();
+        // ButtonFrame buttonFrame = new ButtonFrame();
+        BorderLayoutFrame borderLayoutFrame = new BorderLayoutFrame();
     }
 }

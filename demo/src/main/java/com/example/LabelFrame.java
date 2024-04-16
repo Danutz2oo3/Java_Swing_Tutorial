@@ -5,9 +5,9 @@ import javax.swing.border.Border;
 
 import java.awt.*;
 
-public class MyFrame extends JFrame{
+public class LabelFrame extends JFrame{
         // Get the screen size
-        public MyFrame(){
+        public LabelFrame(){
 
             ImageIcon icon = new ImageIcon("demo/src/main/resources/64211552.jpg");//create an ImageIcon
             Border border = BorderFactory.createLineBorder(Color.GREEN, 3);//create a border

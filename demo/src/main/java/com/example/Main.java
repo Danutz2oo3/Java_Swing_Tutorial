@@ -3,7 +3,8 @@ package com.example;
 public class Main {
     public static void main(String[] args) {
         // Create a new JFrame
-        //LabelFrame labelFrame = new LabelFrame();
-        PanelFrame panelFrame = new PanelFrame();
+        // LabelFrame labelFrame = new LabelFrame();
+        // PanelFrame panelFrame = new PanelFrame();
+        ButtonFrame buttonFrame = new ButtonFrame();
     }
 }

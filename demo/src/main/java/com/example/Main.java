@@ -6,6 +6,7 @@ public class Main {
         // LabelFrame labelFrame = new LabelFrame();
         // PanelFrame panelFrame = new PanelFrame();
         // ButtonFrame buttonFrame = new ButtonFrame();
-        BorderLayoutFrame borderLayoutFrame = new BorderLayoutFrame();
+        // BorderLayoutFrame borderLayoutFrame = new BorderLayoutFrame();
+        FlowLayoutFrame flowLayoutFrame = new FlowLayoutFrame();
     }
 }

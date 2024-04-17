@@ -8,6 +8,7 @@ public class Main {
         // ButtonFrame buttonFrame = new ButtonFrame();
         // BorderLayoutFrame borderLayoutFrame = new BorderLayoutFrame();
         // FlowLayoutFrame flowLayoutFrame = new FlowLayoutFrame();
-        GridLayoutFrame gridLayoutFrame = new GridLayoutFrame();
+        // GridLayoutFrame gridLayoutFrame = new GridLayoutFrame();
+        KeyBindingFrame keyBindingFrame = new KeyBindingFrame();
     }
 }
